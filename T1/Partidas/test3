@@ -1,0 +1,147 @@
+*** DATOS PARA CARGAR ***
+--------------------------
+Terremoto,No ha ocurrido algún evento hoy.,Derrumbe,Lluvia,No ha ocurrido algún evento hoy.,Lluvia,No ha ocurrido algún evento hoy.,Terremoto,Derrumbe,
+79.05999999999993,20,9,15
+--MOCHILA START--
+Veneno,consumible,Otorga -100 energía / -10 fuerza / -10 suerte / -10 felicidad.,-100, -10, -10, -10
+Pala de hierro,consumible,Otorga +10 energía / +5 fuerza / +1 felicidad.,10, 10, 0, 1
+Quetiapina,consumible,Otorga +50 energía / +1 suerte / +5 felicidad.,40, 0, 1, 5
+Botella,consumible,Otorga +30 energía / +5 fuerza / +2 suerte / +10 felicidad.,30, 5, 2, 10
+Bebida energética,consumible,Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.,80, 3, 2, 1
+Completo mojado,consumible,Otorga +40 energía / +6 fuerza / +4 felicidad.,40, 2, 0, 4
+Helado,consumible,Otorga +30 energía / +5 fuerza / +1 suerte / +8 felicidad.,30, 5, 1, 8
+--MOCHILA FINISH--
+Arena rocosa,rocosa,4,4,10,5
+                
+--ITEMS START--
+--ITEMS FINISH
+    
+Mpia_vf,docencio,21,0,10,5,7,False
+Mtaguero,tareo,27,0,5,1,1,False
+Mtaguero,tareo,27,0,5,1,1,False
+Emolaba,hibrido,18,0,10,9,7,False
+Benjeh,tareo,22,5,7,3,1,False
+Lily614,docencio,60,0,10,0,7,False
+Beyoncé,hibrido,41,100,10,10,10,False
+--EXCAVADOR END--
+--------------------------
+*** DATOS DE LA PARTIDA ***
+--------------------------
+DÍA: 9 de 15
+        
+Metros cavados: 79.05999999999993 m / 20 m
+        
+La arena actual es: arena rocosa
+        
+Han ocurrido los siguientes eventos: ['Terremoto', 'No ha ocurrido algún evento hoy.', 'Derrumbe', 'Lluvia', 'No ha ocurrido algún evento hoy.', 'Lluvia', 'No ha ocurrido algún evento hoy.', 'Terremoto', 'Derrumbe']
+        
+Tu mochila contiene: 
+Veneno, un consumible que Otorga -100 energía / -10 fuerza / -10 suerte / -10 felicidad.
+Pala de hierro, un consumible que Otorga +10 energía / +5 fuerza / +1 felicidad.
+Quetiapina, un consumible que Otorga +50 energía / +1 suerte / +5 felicidad.
+Botella, un consumible que Otorga +30 energía / +5 fuerza / +2 suerte / +10 felicidad.
+Bebida energética, un consumible que Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.
+Completo mojado, un consumible que Otorga +40 energía / +6 fuerza / +4 felicidad.
+Helado, un consumible que Otorga +30 energía / +5 fuerza / +1 suerte / +8 felicidad.
+        
+-------------------------------------
+        
+*** DATOS EQUIPO ***
+        
+
+        
+El equipo actual es: 
+Nombre: Mpia_vf
+        
+Edad: 21
+        
+Energia: 0
+        
+Fuerza: 10
+        
+Suerte: 5
+        
+Felicidad: 7
+        
+
+Nombre: Mtaguero
+        
+Edad: 27
+        
+Energia: 0
+        
+Fuerza: 5
+        
+Suerte: 1
+        
+Felicidad: 1
+        
+
+Nombre: Mtaguero
+        
+Edad: 27
+        
+Energia: 0
+        
+Fuerza: 5
+        
+Suerte: 1
+        
+Felicidad: 1
+        
+
+Nombre: Emolaba
+        
+Edad: 18
+        
+Energia: 0
+        
+Fuerza: 10
+        
+Suerte: 9
+        
+Felicidad: 7
+        
+
+Nombre: Benjeh
+        
+Edad: 22
+        
+Energia: 5
+        
+Fuerza: 7
+        
+Suerte: 3
+        
+Felicidad: 1
+        
+
+Nombre: Lily614
+        
+Edad: 60
+        
+Energia: 0
+        
+Fuerza: 10
+        
+Suerte: 0
+        
+Felicidad: 7
+        
+
+Nombre: Beyoncé
+        
+Edad: 41
+        
+Energia: 100
+        
+Fuerza: 10
+        
+Suerte: 10
+        
+Felicidad: 10
+        
+
+        
+
+        

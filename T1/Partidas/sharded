@@ -1,0 +1,201 @@
+*** DATOS PARA CARGAR ***
+--------------------------
+Lluvia,No ha ocurrido algún evento hoy.,Terremoto,No ha ocurrido algún evento hoy.,Terremoto,
+44.19999999999999,20,5,20
+--MOCHILA START--
+Comida fungosa,consumible,Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.,-80, -7, -5, -10
+Pala de hierro,consumible,Otorga +10 energía / +5 fuerza / +1 felicidad.,10, 10, 0, 1
+Bebida energética,consumible,Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.,80, 3, 2, 1
+PepaBot,tesoro,Cambia el estado de la arena a magnetica.,2,magnetica
+Cartón de título,consumible,Otorga +10 energía / +3 fuerza / +2 suerte / +10 felicidad.,10, 3, 2, 10
+Entradas concierto,consumible,Otorga +60 energía / +3 fuerza / +3 suerte / +10 felicidad.,60, 3, 3, 10
+Sopa de caracol,consumible,Otorga +25 energía / +4 fuerza / +4 felicidad.,25, 4, 0, 4
+Comida fungosa,consumible,Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.,-80, -7, -5, -10
+Completo mojado,consumible,Otorga +40 energía / +6 fuerza / +4 felicidad.,40, 2, 0, 4
+Pócima de energía,consumible,Otorga +100 energía.,100, 0, 0, 0
+--MOCHILA FINISH--
+Arena de hierro,magnetica,10,4,9,10
+                
+--ITEMS START--
+Completo,consumible,Otorga +20 energía / +5 fuerza / +10 felicidad.,20,5,0,10
+Desloratadina,consumible,Otorga +8 energía / -2 fuerza / +6 felicidad.,8,-2,0,6
+Helado,consumible,Otorga +30 energía / +5 fuerza / +1 suerte / +8 felicidad.,30,5,1,8
+Pala de hierro,consumible,Otorga +10 energía / +5 fuerza / +1 felicidad.,10,10,0,1
+Pizza Pequeño César,consumible,Otorga +40 energía / +3 fuerza / +6 felicidad.,40,3,0,6
+Comida rancia,consumible,Otorga -20 energía / -10 fuerza / -10 felicidad.,-20,-10,0,-10
+Botella,consumible,Otorga +30 energía / +5 fuerza / +2 suerte / +10 felicidad.,30,5,2,10
+Jarabe,consumible,Otorga +10 energía / +6 fuerza / +1 suerte / -3 felicidad.,10,6,1,-3
+Chamito,consumible,Otorga +20 energía / +10 fuerza / +1 felicidad.,20,10,0,1
+Cartón de título,consumible,Otorga +10 energía / +3 fuerza / +2 suerte / +10 felicidad.,10,3,2,10
+Bebida energética,consumible,Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.,80,3,2,1
+Fajitas,consumible,Otorga +20 energía / +5 fuerza / +5 felicidad.,20,5,0,5
+Duende mágico,consumible,Otorga +10 energía / -1 fuerza / +7 suerte / -2 felicidad.,10,-1,7,-2
+Sopa de caracol,consumible,Otorga +25 energía / +4 fuerza / +4 felicidad.,25,4,0,4
+Completo mojado,consumible,Otorga +40 energía / +6 fuerza / +4 felicidad.,40,2,0,4
+Comida fungosa,consumible,Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.,-80,-7,-5,-10
+Pócima de energía,consumible,Otorga +100 energía.,100,0,0,0
+Empanada,consumible,Otorga +30 energía / +5 fuerza / +2 felicidad.,30,5,0,2
+Quetiapina,consumible,Otorga +50 energía / +1 suerte / +5 felicidad.,40,0,1,5
+Hamburguesa de lentejas,consumible,Otorga +15 energía / +5 fuerza / +5 felicidad.,15,5,0,5
+Veneno,consumible,Otorga -100 energía / -10 fuerza / -10 suerte / -10 felicidad.,-100,-10,-10,-10
+Entradas concierto,consumible,Otorga +60 energía / +3 fuerza / +3 suerte / +10 felicidad.,60,3,3,10
+Mojito,consumible,Otorga +10 energía / -3 fuerza / +6 suerte / +2 felicidad.,10,-3,6,2
+Comida vibracional,consumible,Otorga +100 energía / +10 fuerza / +10 suerte / +10 felicidad.,100,10,10,10
+Pala de diamante,consumible,Otorga +30 energía / +10 fuerza.,30,10,0,0
+Apuntes del Gran Docencio,tesoro,Añade a tu equipo un excavador de tipo Docencio.,1,docencio
+Tortuga Dorada,tesoro,Añade a tu equipo un excavador de tipo Tareo.,1,tareo
+Set de Herramientas Hackeado,tesoro,Cambia el estado de la arena a normal.,2,normal
+Cáliz Divino,tesoro,Cambia el estado de la arena a mojada.,2,mojada
+CL4S5:IIC2233,tesoro,Añade a tu equipo un excavador de tipo Híbrido.,1,hibrido
+DCCaboom!!,tesoro,Cambia el estado de la arena a rocosa.,2,rocosa
+PepaBot,tesoro,Cambia el estado de la arena a magnetica.,2,magnetica
+PepaBot,tesoro,Cambia el estado de la arena a magnetica.,2,magnetica
+Pizza Pequeño César,consumible,Otorga +40 energía / +3 fuerza / +6 felicidad.,40,3,0,6
+--ITEMS FINISH
+    
+MatiasMasjuan,docencio,32,44,10,5,4,True
+Benjeh,tareo,25,66,10,5,7,True
+Emolaba,hibrido,24,56,10,10,4,True
+jtvaldivia,tareo,56,41,10,2,7,True
+Lily614,docencio,60,6,10,1,7,True
+MatiasMasjuan,docencio,32,44,10,5,4,True
+Beyoncé,hibrido,44,72,10,10,7,True
+Emolaba,hibrido,24,56,10,10,4,True
+--EXCAVADOR END--
+--------------------------
+*** DATOS DE LA PARTIDA ***
+--------------------------
+DÍA: 5 de 20
+        
+Metros cavados: 44.19999999999999 m / 20 m
+        
+La arena actual es: arena magnetica
+        
+Han ocurrido los siguientes eventos: ['Lluvia', 'No ha ocurrido algún evento hoy.', 'Terremoto', 'No ha ocurrido algún evento hoy.', 'Terremoto']
+        
+Tu mochila contiene: 
+Comida fungosa, un consumible que Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.
+Pala de hierro, un consumible que Otorga +10 energía / +5 fuerza / +1 felicidad.
+Bebida energética, un consumible que Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.
+PepaBot, un tesoro que Cambia el estado de la arena a magnetica.
+Cartón de título, un consumible que Otorga +10 energía / +3 fuerza / +2 suerte / +10 felicidad.
+Entradas concierto, un consumible que Otorga +60 energía / +3 fuerza / +3 suerte / +10 felicidad.
+Sopa de caracol, un consumible que Otorga +25 energía / +4 fuerza / +4 felicidad.
+Comida fungosa, un consumible que Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.
+Completo mojado, un consumible que Otorga +40 energía / +6 fuerza / +4 felicidad.
+Pócima de energía, un consumible que Otorga +100 energía.
+        
+-------------------------------------
+        
+*** DATOS EQUIPO ***
+        
+
+        
+El equipo actual es: 
+Nombre: MatiasMasjuan
+        
+Edad: 32
+        
+Energia: 44
+        
+Fuerza: 10
+        
+Suerte: 5
+        
+Felicidad: 4
+        
+
+Nombre: Benjeh
+        
+Edad: 25
+        
+Energia: 66
+        
+Fuerza: 10
+        
+Suerte: 5
+        
+Felicidad: 7
+        
+
+Nombre: Emolaba
+        
+Edad: 24
+        
+Energia: 56
+        
+Fuerza: 10
+        
+Suerte: 10
+        
+Felicidad: 4
+        
+
+Nombre: jtvaldivia
+        
+Edad: 56
+        
+Energia: 41
+        
+Fuerza: 10
+        
+Suerte: 2
+        
+Felicidad: 7
+        
+
+Nombre: Lily614
+        
+Edad: 60
+        
+Energia: 6
+        
+Fuerza: 10
+        
+Suerte: 1
+        
+Felicidad: 7
+        
+
+Nombre: MatiasMasjuan
+        
+Edad: 32
+        
+Energia: 44
+        
+Fuerza: 10
+        
+Suerte: 5
+        
+Felicidad: 4
+        
+
+Nombre: Beyoncé
+        
+Edad: 44
+        
+Energia: 72
+        
+Fuerza: 10
+        
+Suerte: 10
+        
+Felicidad: 7
+        
+
+Nombre: Emolaba
+        
+Edad: 24
+        
+Energia: 56
+        
+Fuerza: 10
+        
+Suerte: 10
+        
+Felicidad: 4
+        
+
+        
+
+        
